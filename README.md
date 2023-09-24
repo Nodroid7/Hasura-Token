@@ -8,11 +8,12 @@ SuperTokens is an open source authentication.
 
 In the project directory, you can run:
 
-### `npm install`
+### `npm i`
 
 ## How to run
 
 ### `npm run dev`
+
 
 The above command is used to run both frontend and backend 
 
